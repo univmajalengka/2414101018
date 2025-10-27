@@ -1,11 +1,11 @@
 # 📚 Deskripsi singkat
- Halo, perkenalkan nama saya Kafi Agung Gunawan dan tujuan saya membuat reporitori ini adalah untuk mengupload & mengumpulkan tugas perkuliahan dalam bentuk project/coding
+ Halo, perkenalkan nama saya Muhammad Hibban Al Faqih dan tujuan saya membuat reporitori ini adalah untuk mengupload & mengumpulkan tugas perkuliahan dalam bentuk project/coding
 ---
 
 ## 👤 Data Mahasiswa
 
-- **Nama** : Kafi Agung Gunawan
-- **NPM** : 2414101044
+- **Nama** : Muhammad Hibban Al Faqih
+- **NPM** : 2414101018
 - **Program Studi** : Informatika
 - **Fakultas** : Teknik
 
